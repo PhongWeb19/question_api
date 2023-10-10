@@ -1,0 +1,30 @@
+{
+        
+            "congnghethongtin" : [
+                {
+                    "questionid": 1,
+                    "questions": {
+                        "question": "Đâu không phải là ngôn ngữ lập trình?",
+                        "answers": [
+                            {"Text_answer": "A: C++","correct": false},
+                            {"Text_answer": "B: JavaScript","correct": false},
+                            {"Text_answer": "C: PHP","correct": false},
+                            {"Text_answer": "D: HTML","correct": true}
+                        ]
+                    }
+                },
+                {
+                    "questionid": 2,
+                    "questions": {
+                        "question": "Ngôn ngữ lập trình nào thường được dạy ở Đại Học?",
+                        "answers": [
+                            {"Text_answer": "A: C++","correct": true},
+                            {"Text_answer": "B: JavaScript","correct": false},
+                            {"Text_answer": "C: PHP","correct": false},
+                            {"Text_answer": "D: HTML","correct": false}
+                        ]
+                    }
+                }
+            ]
+    
+}
