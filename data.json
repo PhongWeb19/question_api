@@ -25,6 +25,14 @@
                         ]
                     }
                 }
+            ],
+
+            "Account": [
+                {
+                    "id": 0,
+                    "AccountName": "admin",
+                    "Password": "admin"
+                }
             ]
     
 }
