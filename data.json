@@ -32,6 +32,11 @@
                     "id": 0,
                     "AccountName": "admin",
                     "Password": "admin"
+                },
+                {
+                    "id": 1,
+                    "AccountName": "Phong",
+                    "Password": "123"
                 }
             ]
     
